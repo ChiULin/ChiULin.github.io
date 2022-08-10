@@ -27,8 +27,18 @@ nav li{
 #intro .btn{
 	margin-top: 20px;
 }
+.search{
+	background-color: #f4610b;
+	margin:0 auto;
+	padding: 7px 28px;
+	border-radius: 20px;
+	border-style: none;
+	font-size: 15px;
+	display:block;
+	color: darkgreen;
+}
 .btn{
-    background-color: #5d4ee1!important;
+    background-color: #5d4ee1;
     padding: 7px 28px;
     border-radius: 20px;
     border: none;
